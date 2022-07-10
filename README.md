@@ -3,5 +3,5 @@ University blackjack project based on Python
 
 # Python methods applied
 
- - Class
+ - Classes
  - Tuple
